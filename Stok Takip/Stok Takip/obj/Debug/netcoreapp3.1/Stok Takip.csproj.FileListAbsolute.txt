@@ -1,0 +1,40 @@
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\bin\Debug\netcoreapp3.1\Stok Takip.exe
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\bin\Debug\netcoreapp3.1\Stok Takip.deps.json
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\bin\Debug\netcoreapp3.1\Stok Takip.runtimeconfig.json
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\bin\Debug\netcoreapp3.1\Stok Takip.runtimeconfig.dev.json
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\bin\Debug\netcoreapp3.1\Stok Takip.dll
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\bin\Debug\netcoreapp3.1\Stok Takip.pdb
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.csprojAssemblyReference.cache
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok_Takip.Form1.resources
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok_Takip.Form2.resources
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok_Takip.Properties.Resources.resources
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.csproj.GenerateResource.cache
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.AssemblyInfoInputs.cache
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.AssemblyInfo.cs
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.dll
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.pdb
+C:\Users\Selin\source\repos\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.genruntimeconfig.cache
+D:\3.sınıf\stok\Stok Takip\Stok Takip\bin\Debug\netcoreapp3.1\Stok Takip.exe
+D:\3.sınıf\stok\Stok Takip\Stok Takip\bin\Debug\netcoreapp3.1\Stok Takip.deps.json
+D:\3.sınıf\stok\Stok Takip\Stok Takip\bin\Debug\netcoreapp3.1\Stok Takip.runtimeconfig.json
+D:\3.sınıf\stok\Stok Takip\Stok Takip\bin\Debug\netcoreapp3.1\Stok Takip.runtimeconfig.dev.json
+D:\3.sınıf\stok\Stok Takip\Stok Takip\bin\Debug\netcoreapp3.1\Stok Takip.dll
+D:\3.sınıf\stok\Stok Takip\Stok Takip\bin\Debug\netcoreapp3.1\Stok Takip.pdb
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.csproj.AssemblyReference.cache
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok_Takip.Form1.resources
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok_Takip.Form3.resources
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok_Takip.Properties.Resources.resources
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.csproj.GenerateResource.cache
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.GeneratedMSBuildEditorConfig.editorconfig
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.AssemblyInfoInputs.cache
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.AssemblyInfo.cs
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.csproj.CoreCompileInputs.cache
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.dll
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.pdb
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok Takip.genruntimeconfig.cache
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok_Takip.Form4.resources
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok_Takip.yonetici.resources
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok_Takip.urun.resources
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok_Takip.satis.resources
+D:\3.sınıf\stok\Stok Takip\Stok Takip\obj\Debug\netcoreapp3.1\Stok_Takip.musteri.resources

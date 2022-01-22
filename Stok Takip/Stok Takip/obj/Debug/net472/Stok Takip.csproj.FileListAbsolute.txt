@@ -1,0 +1,81 @@
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.AssemblyReference.cache
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form1.resources
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form2.resources
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form3.resources
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form4.resources
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form5.resources
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.musteri.resources
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Properties.Resources.resources
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.satis.resources
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.GenerateResource.cache
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.AssemblyInfoInputs.cache
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.AssemblyInfo.cs
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\bin\Debug\net472\Stok Takip.exe.config
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\bin\Debug\net472\Stok Takip.exe
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\bin\Debug\net472\Stok Takip.pdb
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.exe
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.pdb
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.AssemblyReference.cache
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.SuggestedBindingRedirects.cache
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form1.resources
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form2.resources
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form3.resources
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form4.resources
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form5.resources
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form6.resources
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.musteri.resources
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Properties.Resources.resources
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.satis.resources
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.GenerateResource.cache
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.GeneratedMSBuildEditorConfig.editorconfig
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.AssemblyInfoInputs.cache
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.AssemblyInfo.cs
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.CoreCompileInputs.cache
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.exe
+D:\3.sınıf\STOKTAKİP\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.pdb
+C:\Users\Selin\OneDrive\Masaüstü\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form6.resources
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\bin\Debug\net472\Stok Takip.exe.config
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\bin\Debug\net472\Stok Takip.exe
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\bin\Debug\net472\Stok Takip.pdb
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.AssemblyReference.cache
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.SuggestedBindingRedirects.cache
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form1.resources
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form2.resources
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form3.resources
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form4.resources
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form5.resources
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form6.resources
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.musteri.resources
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Properties.Resources.resources
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.satis.resources
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.GenerateResource.cache
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.GeneratedMSBuildEditorConfig.editorconfig
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.AssemblyInfoInputs.cache
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.AssemblyInfo.cs
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.CoreCompileInputs.cache
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.exe
+D:\3.sınıf\STOK\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.pdb
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\bin\Debug\net472\Stok Takip.exe.config
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\bin\Debug\net472\Stok Takip.exe
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\bin\Debug\net472\Stok Takip.pdb
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.AssemblyReference.cache
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form1.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form2.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form3.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form4.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form5.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form6.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.musteri.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Properties.Resources.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.satis.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.GenerateResource.cache
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.AssemblyInfoInputs.cache
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.AssemblyInfo.cs
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.exe
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip.pdb

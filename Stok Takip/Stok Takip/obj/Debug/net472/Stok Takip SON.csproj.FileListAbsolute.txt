@@ -1,0 +1,21 @@
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\bin\Debug\net472\Stok Takip SON.exe.config
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\bin\Debug\net472\Stok Takip SON.exe
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\bin\Debug\net472\Stok Takip SON.pdb
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip SON.csproj.AssemblyReference.cache
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip SON.csproj.SuggestedBindingRedirects.cache
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form1.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form2.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form3.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form4.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form5.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Form6.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.musteri.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.Properties.Resources.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok_Takip.satis.resources
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip SON.csproj.GenerateResource.cache
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip SON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip SON.AssemblyInfoInputs.cache
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip SON.AssemblyInfo.cs
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip SON.csproj.CoreCompileInputs.cache
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip SON.exe
+C:\Users\Selin\OneDrive\Masaüstü\sbldk\Stok Takip\Stok Takip\obj\Debug\net472\Stok Takip SON.pdb
